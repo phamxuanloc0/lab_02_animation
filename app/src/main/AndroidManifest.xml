@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab_02_animation">
         <activity
+            android:name=".detail_short_green"
+            android:exported="true" />
+        <activity
+            android:name=".detail_shot_lavender"
+            android:exported="true" />
+        <activity
+            android:name=".detail_light_lavender"
+            android:exported="true" />
+        <activity
+            android:name=".detail_lavender"
+            android:exported="true" />
+        <activity
+            android:name=".list_flower"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
