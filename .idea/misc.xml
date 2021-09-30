@@ -8,7 +8,12 @@
         <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_detail_short_green.xml" value="0.25416666666666665" />
         <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_detail_shot_lavender.xml" value="0.25416666666666665" />
         <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_list_flower.xml" value="0.264" />
+        <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_list_music.xml" value="0.24010416666666667" />
         <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_music.xml" value="0.25416666666666665" />
+        <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_music_layout1.xml" value="0.24010416666666667" />
+        <entry key="..\:/lab_02_animation/app/src/main/res/layout/activity_music_reyclerview.xml" value="0.25416666666666665" />
+        <entry key="..\:/lab_02_animation/app/src/main/res/layout/list_music.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
